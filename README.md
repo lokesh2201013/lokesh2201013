@@ -7,27 +7,67 @@
 
 👨‍💻 All of my projects are available at https://github.com/lokesh2201013
 
-📝 I regularly write articles on https://your-blog-link (Please replace this with your actual blog link if you have one, otherwise you can remove this line)
-
 💬 Ask me about Python, FastAPI, Golang, MongoDB, Postgres, Docker, Kubernetes, GCP, LLM, RAG, System Design, and CI/CD.
 
-📫 How to reach me: lokesh.2201013cs@iiitbh.ac.in
+📫 How to reach me: lokeshchoraria2@gmail.com
 
 ⚡ Fun fact: I love debugging more than writing code, finding joy in solving complex challenges!
 
 🚀 About Me
-I am a dedicated Backend Developer with experience in building robust, scalable, and modular microservices. My expertise lies in designing serverless-first architectures, optimizing deployment processes, and integrating cutting-edge technologies like LLM and RAG for enhanced application capabilities. I have a solid understanding of core computer science principles, including Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networking. My professional journey includes developing critical microservices, orchestrating CI/CD pipelines, and streamlining cloud resource provisioning.
+I am a dedicated Backend Developer with a passion for crafting robust, scalable, and modular microservices. My core strengths lie in:
+
+Designing Serverless-First Architectures: Focused on optimizing cloud resource utilization and reducing idle costs.
+
+Streamlining Deployment Processes: Enhancing efficiency and consistency in application delivery.
+
+Integrating Cutting-Edge Technologies: Specializing in LLM (Large Language Model) and RAG (Retrieval-Augmented Generation) systems for advanced application capabilities.
+
+Strong CS Fundamentals: Possessing a solid understanding of Data Structures, Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), and Computer Networking.
+
+My professional journey is marked by developing critical microservices, orchestrating end-to-end CI/CD pipelines, and efficiently provisioning cloud resources through Infrastructure as Code (IaC).
 
 💡 Key Experiences & Skills
-Backend Development: Proficient in Golang, Python, FastAPI, and SQL for building high-performance REST APIs and gRPC services.
+Here's a breakdown of my key areas of expertise:
 
-Cloud & DevOps: Hands-on experience with GCP, Docker, Kubernetes (GKE), Terraform for Infrastructure as Code (IaC), Jenkins, and Argo CD for automated CI/CD pipelines.
+Backend Development:
 
-Database Management: Skilled in working with Postgres and MongoDB for efficient data storage and retrieval.
+Proficient in Golang, Python, FastAPI, and SQL.
 
-AI/ML Integration: Experience with LLM and RAG systems, including implementing pipelines for converting chart images into logical flows using LLMs.
+Experienced in building high-performance REST APIs and gRPC services.
 
-Monitoring & Tracing: Familiar with Prometheus, Grafana, and Jaegar for system monitoring and distributed tracing.
+Skilled in developing scalable and modular microservices.
+
+Cloud & DevOps:
+
+Hands-on experience with Google Cloud Platform (GCP).
+
+Expertise in Docker for containerization and Kubernetes (GKE) for container orchestration.
+
+Adept at using Terraform for Infrastructure as Code (IaC) to automate resource provisioning.
+
+Proficient in Jenkins for continuous integration and continuous delivery (CI/CD) pipeline orchestration.
+
+Experienced with Argo CD for GitOps-driven continuous deployment to Kubernetes.
+
+Database Management:
+
+Skilled in working with Postgres for relational data.
+
+Proficient in MongoDB for NoSQL database solutions, ensuring efficient data storage and retrieval.
+
+AI/ML Integration:
+
+Practical experience with LLM (Large Language Model) and RAG (Retrieval-Augmented Generation) systems.
+
+Implemented pipelines for converting complex chart images into logical flows using LLMs, transforming them into tree structures for downstream processing.
+
+Monitoring & Tracing:
+
+Familiar with Prometheus for system monitoring and alerting.
+
+Experienced with Grafana for data visualization and dashboard creation.
+
+Knowledgeable in Jaegar for distributed tracing and performance analysis.
 
 🛠️ Languages and Tools
 <p align="left">
